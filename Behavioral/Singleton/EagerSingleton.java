@@ -1,3 +1,7 @@
+// singleton is final
+// created at class loading
+
+
 public class EagerSingleton {
 	private static final EagerSingleton instance = new EagerSingleton();
 
@@ -5,7 +9,7 @@ public class EagerSingleton {
 
 	}
 
-	public EagerSingleton getInstance() {
+	public static EagerSingleton getInstance() {
 		return instance;
 	}
 }
