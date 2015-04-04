@@ -1,5 +1,5 @@
 // singleton is final
-// created at class loading
+// created at class loading even before it's used
 
 
 public class EagerSingleton {

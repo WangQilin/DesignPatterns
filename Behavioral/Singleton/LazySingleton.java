@@ -1,5 +1,6 @@
 // easy to implement
 // not thread-safe
+// create only when instance is needed
 
 public class LazySingleton {
     private static LazySingleton instance;
