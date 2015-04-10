@@ -1,4 +1,4 @@
-package paypal;
+package abstractfactory;
 
 public class Shark implements AquaticAnimal{
 

@@ -1,4 +1,4 @@
-package paypal;
+package abstractfactory;
 
 // abstract factory creates a factory of factories
 public class Main {
