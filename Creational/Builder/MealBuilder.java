@@ -1,4 +1,4 @@
-package Test;
+package builder;
 
 public class MealBuilder {
 	public Meal prepareSetMeal1() {

@@ -1,4 +1,4 @@
-package Test;
+package builder;
 
 public interface Item {
 	public String getName();

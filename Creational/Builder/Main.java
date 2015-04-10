@@ -1,4 +1,8 @@
-package Test;
+package builder;
+
+//Builder pattern is introduced to solve some of the problems with Factory and Abstract Factory
+//design patterns when the Object contains too many attributes. It provides a step-by-step approach
+//to construct Object.
 
 public class Main {
 

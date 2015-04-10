@@ -1,4 +1,4 @@
-package Test;
+package builder;
 
 public class DoubleCheeseBurger extends Burger {
 
