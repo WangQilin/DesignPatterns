@@ -1,3 +1,5 @@
+package singleton;
+
 // make use of static block
 // will be created even before it's used
 

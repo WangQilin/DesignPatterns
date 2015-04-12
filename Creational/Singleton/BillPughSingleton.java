@@ -1,3 +1,5 @@
+package singleton;
+
 // use inner helper static class
 public class BillPughSingleton {
 
@@ -6,7 +8,7 @@ public class BillPughSingleton {
     }
 
     private static class Helper {
-        private static final BillPughSingleton instance;
+        private static final BillPughSingleton instance = new BillPughSingleton();
     }
 
     public static BillPughSingleton getInstance() {

@@ -1,3 +1,5 @@
+package singleton;
+
 // singleton is final
 // created at class loading even before it's used
 

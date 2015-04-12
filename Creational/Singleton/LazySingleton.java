@@ -1,3 +1,5 @@
+package singleton;
+
 // easy to implement
 // not thread-safe
 // create only when instance is needed
