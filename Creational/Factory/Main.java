@@ -1,4 +1,4 @@
-package JavaFactory;
+package factory;
 
 public class Main {
 

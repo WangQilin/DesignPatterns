@@ -1,4 +1,4 @@
-package JavaFactory;
+package factory;
 
 public interface Animal {
 	public abstract String getName();

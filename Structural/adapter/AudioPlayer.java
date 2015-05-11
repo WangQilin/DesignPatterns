@@ -1,4 +1,4 @@
-package adapterpattern;
+package adapter;
 
 public class AudioPlayer implements MediaPlayer {
 
